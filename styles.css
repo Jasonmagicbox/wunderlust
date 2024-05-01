@@ -43,13 +43,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-/* begin css styles */
+/* begin css */
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-/* root styles */
+/* root*/
 :root{
     --yellow: #F6D64A;
     --teal: #55BCD5;
